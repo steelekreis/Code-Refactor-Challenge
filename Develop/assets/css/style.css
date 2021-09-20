@@ -20,6 +20,7 @@ header h1 {
     font-size: 48px;
 }
 
+/* MAIN FORMATTING OF LOGO*/
 header a {
     color: #ffffff;
     text-decoration: none;
@@ -30,6 +31,7 @@ header .seo {
     color: #d9dcd6;
 }
 
+/* NAVIGATION SECTION*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -100,6 +102,7 @@ p {
     
 }
 
+/* MIDDLE ABOUT HAS DIFFERENT FLOAT */
 #online-reputation-management img {
     float:right;
     margin-left: 25px;
