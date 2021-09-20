@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER SECTION*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* HERO SECTION*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,37 +61,13 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* INFO SECTION*/
+
 .information {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-    color: #ffffff;
-}
-
-.benefits p{
-    margin-bottom: 32px;
-}
-
-.benefits h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 .about {
@@ -120,6 +98,35 @@ p {
     font-size: 36px;
 }
 
+/* BENEFITS SECTION*/
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    color: #ffffff;
+}
+
+.benefits p{
+    margin-bottom: 32px;
+}
+
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* FOOTER SECTION*/
 footer {
     padding: 30px;
     clear: both;
